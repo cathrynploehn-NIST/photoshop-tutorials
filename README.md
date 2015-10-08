@@ -1,7 +1,7 @@
 #Photoshop for Beginners
 _by Cathryn Ploehn_
 
-A tutorial for Photoshop CC beginners with a focus on image manimpulation tools.
+A tutorial for Photoshop CC beginners with a focus on image manipulation tools.
 
 Source files for the tutorial are in "photoshop file.zip".
 
