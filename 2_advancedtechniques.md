@@ -167,10 +167,4 @@ We can multiply the friends to fit into the cars.
 
 ![Overlay](img/advancedtechniques_31.png)
 
-##how to manage brushes
-
-##pixel-based vs vector-based edits
-
-##photo retouching, restoration and compositing
-
-##Other
+_Salem is satisfied with this image! She will send a follow up image to her mother to prove she indeed has friends._
