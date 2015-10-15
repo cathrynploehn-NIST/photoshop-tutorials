@@ -9,3 +9,7 @@ Source files for the tutorial are in "photoshop file.zip".
 [Basic Techniques](1_basictechniques.md)
 
 [Advanced Layer Tasks](2_advancedtechniques.md)
+
+[Advanced Retouching](3_retouching.md)
+
+[Color and Brushes](4_colorandbrushes.md)
