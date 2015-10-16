@@ -6,10 +6,12 @@ A tutorial for Photoshop CC beginners with a focus on image manipulation tools.
 Source files for the tutorial are in "photoshop file.zip".
 
 ##Contents
-[Basic Techniques](1_basictechniques.md)
+1. [Basic Techniques](1_basictechniques.md)
 
-[Advanced Layer Tasks](2_advancedtechniques.md)
+2. [Advanced Layer Tasks](2_advancedtechniques.md)
 
-[Advanced Retouching](3_retouching.md)
+3. [Advanced Retouching](3_retouching.md)
 
-[Color and Brushes](4_colorandbrushes.md)
+4. [Color and Brushes](4_colorandbrushes.md)
+
+5. [Strategy: Putting it all together](5_strategy.md)

@@ -141,9 +141,3 @@ Let's remove the color from the cat by adding a `Hue/saturation` adjustment laye
 Done!
 
 ![Healing test](img/retouching_18.png)
-
-##Content-Aware Fill
-
-[Video: Content-Aware Fill](https://www.youtube.com/watch?v=rmWHeyU6JxI)
-
-Create a copy of the background (`cmd + alt/option + j`).
