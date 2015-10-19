@@ -14,7 +14,7 @@ __Cropping__: Select the `Crop Tool (C)`. Drag the edges to get rid of the black
 ![Cropping the Salem selfie](img/advancedtechniques_1.png)
 
 ##Remove the background
-__Clipping masks__: This time we will cut out the cat from the background of the photo, but allow for more precise adjustments of the selection over time. 
+__Layer masks__: This time we will cut out the cat from the background of the photo, but allow for more precise adjustments of the selection over time. 
 
 Use the `Quick Selection Tool (W)` to select Salem. (You can also select the white background and invert the selection).
 
@@ -66,9 +66,6 @@ Continue to erase the background in this manner, adjusting the tolerance for the
 
 ![Erase background](img/advancedtechniques_13.png)
 ![Erase background](img/advancedtechniques_14.png)
-
-__Channel mask (alpha matting)__:    
-
 
 
 __Magnetic lasso tool__:
@@ -168,3 +165,9 @@ We can multiply the friends to fit into the cars.
 ![Overlay](img/advancedtechniques_31.png)
 
 _Salem is satisfied with this image! She will send a follow up image to her mother to prove she indeed has friends._
+
+======
+
+[< Home](README.md)
+
+[3. Retouching >](3_retouching.md)

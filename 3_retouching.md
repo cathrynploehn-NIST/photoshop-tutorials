@@ -141,3 +141,9 @@ Let's remove the color from the cat by adding a `Hue/saturation` adjustment laye
 Done!
 
 ![Healing test](img/retouching_18.png)
+
+======
+
+[< Home](README.md)
+
+[4. Color and brushes >](4_colorandbrushes.md)

@@ -123,3 +123,9 @@ Go to the brush panel (if it is not visible, go to `Window > Brush`). There you 
 Navigate to `cat-sink` and create a layer named `signature`. We can now use our new brush to create a signature in white in the bottom right corner of the image. 
 
 ![brush management](img/retouching_43.png)
+
+======
+
+[< Home](README.md)
+
+[5. Strategy: Putting it all together >](5_strategy.md)

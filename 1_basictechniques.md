@@ -191,5 +191,7 @@ Finally, we can add a noise filter to try to uniformly distort the image.
 _Finished! Salem will send the photo to her mother._
 
 ======
+[< Home](README.md)
 
-[Advanced Layer Tasks >](2_advancedtechniques.md)
+[2. Advanced Layer Tasks >](2_advancedtechniques.md)
+
