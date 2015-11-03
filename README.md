@@ -15,3 +15,5 @@ Source files for the tutorial are in "photoshop file.zip".
 4. [Color and Brushes](4_colorandbrushes.md)
 
 5. [Strategy: Putting it all together](5_strategy.md)
+
+6. [Example: Transplanting a doll](6_transplant.md)
